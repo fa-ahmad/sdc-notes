@@ -3,4 +3,5 @@ We, as humans, identify lane lines based on their color--white and yellow, their
 <img src=res/00151158.png width=50% height=50%>
 
 ## Canny Edge Detector
+The canny edge detector algorithm finds the pixel positions where the intensity of the image changes significantly. The opencv 
 
